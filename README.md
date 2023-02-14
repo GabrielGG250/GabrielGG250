@@ -1,5 +1,5 @@
 ## Hello there!! Eu sou Gabriel Guilherme! <br>
-Estou estudando front-end e quero trabalhar com isso.
+Estudando Front end!
 
 ##
 
